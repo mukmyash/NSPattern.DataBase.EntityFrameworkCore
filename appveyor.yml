@@ -1,0 +1,8 @@
+version: 1.0.{build}
+configuration: Release
+platform: Any CPU
+build_script:
+- cmd: "dotnet restore\ndotnet build \ndotnet pack src\\NSPattern.DataBase.EntityFrameworkCore --configuration %CONFIGURATION% -o artifact"
+artifacts:
+- path: src\NSPattern.DataBase.EntityFrameworkCore\artifact\*.nupkg
+  name: NSPattern.DataBase.EntityFrameworkCore

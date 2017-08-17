@@ -1,0 +1,6 @@
+/home/arthur/Projects/NSPattern.EtityFrameworkCore/src/NSPattern.EtityFrameworkCore/bin/Debug/netcoreapp1.0/NSPattern.EtityFrameworkCore.deps.json
+/home/arthur/Projects/NSPattern.EtityFrameworkCore/src/NSPattern.EtityFrameworkCore/obj/Debug/netcoreapp1.0/NSPattern.EtityFrameworkCore.AssemblyInfo.cs
+/home/arthur/Projects/NSPattern.EtityFrameworkCore/src/NSPattern.EtityFrameworkCore/bin/Debug/netcoreapp1.0/NSPattern.EtityFrameworkCore.dll
+/home/arthur/Projects/NSPattern.EtityFrameworkCore/src/NSPattern.EtityFrameworkCore/bin/Debug/netcoreapp1.0/NSPattern.EtityFrameworkCore.pdb
+/home/arthur/Projects/NSPattern.EtityFrameworkCore/src/NSPattern.EtityFrameworkCore/obj/Debug/netcoreapp1.0/NSPattern.EtityFrameworkCore.dll
+/home/arthur/Projects/NSPattern.EtityFrameworkCore/src/NSPattern.EtityFrameworkCore/obj/Debug/netcoreapp1.0/NSPattern.EtityFrameworkCore.pdb

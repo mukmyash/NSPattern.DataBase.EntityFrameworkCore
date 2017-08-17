@@ -1,0 +1,2 @@
+/home/arthur/Projects/NSPattern.EntityFrameworkCore/src/NSPattern.EntityFrameworkCore/bin/Debug/netcoreapp1.0/NSPattern.EntityFrameworkCore.deps.json
+/home/arthur/Projects/NSPattern.EntityFrameworkCore/src/NSPattern.EntityFrameworkCore/obj/Debug/netcoreapp1.0/NSPattern.EntityFrameworkCore.AssemblyInfo.cs
