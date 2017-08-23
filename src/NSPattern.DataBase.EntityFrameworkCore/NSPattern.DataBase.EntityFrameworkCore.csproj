@@ -12,11 +12,11 @@
     <PackageTags>pattern, repository-pattern, EntityFrameworkCore, net-core</PackageTags>
     <PackageReleaseNotes>Fix Specification abstract class
 Fix Repository interface</PackageReleaseNotes>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="1.1.2"/>
-    <PackageReference Include="NSPattern" Version="3.0.0"/>
+    <PackageReference Include="NSPattern" Version="3.0.1"/>
     <PackageReference Include="NSPattern.DataBase" Version="0.0.1"/>
   </ItemGroup>
 </Project>
